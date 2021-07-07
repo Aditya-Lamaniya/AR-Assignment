@@ -61,7 +61,6 @@ sysinfo.txt
 *.idea
 
 # Builds
-*.apk
 *.unitypackage
 
 # Crashlytics generated file
